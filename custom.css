@@ -1,0 +1,105 @@
+.mb-5{font-family: 'Secular One', sans-serif;
+    font-size: 5rem;
+    word-spacing: 1rem}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+    text-align: left;
+   
+
+}
+
+.navbar {
+    padding: 1rem;
+    font-size: 20px;
+    font-family: 'Secular One', sans-serif;
+}
+
+.nav-link{
+    margin-left: .5rem;
+}
+
+.sect{
+    background-color: rgb(255, 255, 255);
+     margin-left: 75px;
+     margin-right: 75px;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 90px;
+    
+}
+
+.head{
+    font-family: 'Secular One', sans-serif;
+    font-size: 3rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.testimonial-section{
+    background-color: #ffffff;   
+   
+}
+
+.testimonial-section .carousel-inner{
+    margin-bottom: 20px;
+}
+.testimonial-section .carousel-control-prev{
+    margin-right: 10px;
+}
+.testimonial-section .carousel-control-next, 
+.testimonial-section .carousel-control-prev{
+    position: relative;
+    height: 35px;
+    width: 35px;
+    background-color: #000000;   
+    display: inline-flex;
+    border-radius: 100%;
+    font-size: 2rem;
+
+   
+}
+.testimonial-section .carousel-control-prev img,
+.testimonial-section .carousel-control-next img{
+    width: 15px;
+}
+.testi-item h3,
+.testi-item p{
+    font-family: 'Roboto', sans-serif;font-size: 1.25rem;
+    justify-content: center; 
+  text-align: left;
+}
+.testi-item h3{
+    text-transform: capitalize;
+}
+
+.accordion-body {text-align: left;font-family: 'Roboto', sans-serif;font-size: 1.25rem;}
+
+.accordion-button, .h3  {
+    font-family: 'Roboto', sans-serif;font-size: 1.25rem;
+}
+.h3{
+
+    font-family: 'Roboto', sans-serif;font-size: 1.25rem;  
+}
+
+.h4{
+
+    font-family: 'Roboto', sans-serif;font-size: 1.25rem;  
+}
+.poop {text-align: left;}
+
+.sloop {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+    text-align: left;
+  }
+  .sloop > ul {
+    display: inline-block;
+  }
+  
